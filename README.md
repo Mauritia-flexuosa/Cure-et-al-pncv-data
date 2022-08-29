@@ -1,6 +1,11 @@
-# Cure-et-al-pncv-data
+# Data from the study: "The role of vegetation function in differentiating ecosystem states in the Brazilian Cerrado"
 
-This repository stores data used in the study "The role of vegetation function in differentiating ecosystem states in the Brazilian Cerrado" by Cure et al.
+Marcio Baldissera Cure¹*, Bernardo M. Flores¹, Caio R. C. Mattos², Rafael Silva Oliveira³, Marina Hirota¹, ³, 4
+¹ Graduate Program in Ecology, Universidade Federal de Santa Catarina (UFSC) (Brazil)
+² Department of Earth and Planetary Sciences, Rutgers University, New Brunswick (USA)
+³ Instituto de Biologia, Universidade Estadual de Campinas (UNICAMP) (Brazil)
+4 Department of Physics, Universidade Federal de Santa Catarina (UFSC) (Brazil)
+* Correspondence author: marciobcure@gmail.com
 
 ## Dados_1.txt contains:
 
