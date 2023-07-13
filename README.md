@@ -12,6 +12,9 @@ Marcio Baldissera Cure¹*, Bernardo M. Flores¹, Caio R. C. Mattos², Rafael Sil
 
 * Correspondence author: marciobcure@gmail.com
 
+## Interactive leaflet map
+#### [Fire frequency for the _Chapada dos Veadeiros National Park_](https://mauritia-flexuosa.github.io/fire_frequency_pncv/)
+
 ## Dados_1.txt contains:
 
 - Coup_lag_max - Maximum coupling between precipitation and greenness
