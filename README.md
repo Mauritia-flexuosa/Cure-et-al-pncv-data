@@ -1,4 +1,4 @@
-# Data from the study: "The role of vegetation function in differentiating ecosystem states in the Brazilian Cerrado"
+# Data from the study: "Vegetation-rainfall coupling as a large-scale indicator of ecosystem distributions in a heterogeneous landscape"
 
 Marcio Baldissera Cure¹*, Bernardo M. Flores¹, Caio R. C. Mattos², Rafael Silva Oliveira³, Marina Hirota¹, ³, 4
 
