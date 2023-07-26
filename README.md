@@ -1,4 +1,4 @@
-# Data from the study: "Vegetation-rainfall coupling as a large-scale indicator of ecosystem distributions in a heterogeneous landscape"
+# Data from the study: "Vegetation-rainfall coupling as an indicator of ecosystem distribution in a heterogeneous landscape"
 
 Marcio Baldissera Cure¹*, Bernardo M. Flores¹, Caio R. C. Mattos², Rafael Silva Oliveira³, Marina Hirota¹, ³, 4
 
@@ -12,8 +12,11 @@ Marcio Baldissera Cure¹*, Bernardo M. Flores¹, Caio R. C. Mattos², Rafael Sil
 
 * Correspondence author: marciobcure@gmail.com
 
-## Interactive leaflet map
+## Interactive leaflet map:
 #### [Fire frequency for the _Chapada dos Veadeiros National Park_](https://mauritia-flexuosa.github.io/fire_frequency_pncv/)
+
+## Rainfall Regime Analysis:
+#### [Methods, code and Results](https://mauritia-flexuosa.github.io/rainfall_pncv/)
 
 ## Dados_1.txt contains:
 
