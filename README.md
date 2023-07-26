@@ -12,10 +12,10 @@ Marcio Baldissera Cure¹*, Bernardo M. Flores¹, Caio R. C. Mattos², Rafael Sil
 
 * Correspondence author: marciobcure@gmail.com
 
-## Interactive leaflet map:
+## LINK 1: Interactive leaflet map
 #### [Fire frequency for the _Chapada dos Veadeiros National Park_](https://mauritia-flexuosa.github.io/fire_frequency_pncv/)
 
-## Rainfall Regime Analysis:
+## LINK 2: Rainfall Regime Analysis
 #### [Methods, code and Results](https://mauritia-flexuosa.github.io/rainfall_pncv/)
 
 ## Dados_1.txt contains:
