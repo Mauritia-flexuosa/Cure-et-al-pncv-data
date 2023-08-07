@@ -1,4 +1,4 @@
-# Data from the study: "Vegetation-rainfall coupling as an indicator of ecosystem distribution in a heterogeneous landscape"
+# Data from the study: "Vegetation-rainfall coupling as an indicator of ecosystem state in a heterogeneous landscape"
 
 Marcio Baldissera Cure¹*, Bernardo M. Flores¹, Caio R. C. Mattos², Rafael Silva Oliveira³, Marina Hirota¹, ³, 4
 
