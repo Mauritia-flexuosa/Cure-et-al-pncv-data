@@ -12,6 +12,8 @@ Marcio Baldissera Cure¹*, Bernardo M. Flores¹, Caio R. C. Mattos², Rafael Sil
 
 * Correspondence author: marciobcure@gmail.com
 
+<https://doi.org/10.1016/j.ecolind.2023.111268>
+
 ## LINK 1: Interactive leaflet map
 #### [Fire frequency for the _Chapada dos Veadeiros National Park_](https://mauritia-flexuosa.github.io/fire_frequency_pncv/)
 
